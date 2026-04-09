@@ -8,4 +8,4 @@
 smash avocado and add lemon and salt
 
 ## Time
-
+roughly 5 min
