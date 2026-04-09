@@ -1,3 +1,6 @@
 # ingredients 
 
+pizza 
+tomatoes 
+
 # prices 
